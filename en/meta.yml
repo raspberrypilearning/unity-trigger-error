@@ -1,9 +1,9 @@
-title: My script doesn't trigger when I collide with another game object
+title: My script doesn't trigger when I collide with another GameObject
 hero_image: images/banner.png
-description: My script doesn't trigger when I collide with another game object
+description: My script doesn't trigger when I collide with another GameObject
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-23"
 steps:
-  - title: My script doesn't trigger when I collide with another game object
+  - title: My script doesn't trigger when I collide with another GameObject
