@@ -1,3 +1,3 @@
-Make sure any characters/objects that you want to collide with have a **Box Collider** with `Is Trigger` selected.
+Zorg ervoor dat voor alle personages/objecten waarmee je wilt botsen een **Box Collider** hebben met `Is Trigger` geselecteerd.
 
-If your characters/objects also have a **Character Controller** for collision detection, you need to make sure that the **Box Collider** that triggers your script is larger than the Character Collider so that you can get close enough to trigger it.  
+Als je personages/objecten ook een **Character Controller** hebben voor botsingsdetectie, moet je ervoor zorgen dat de **Box Collider** die je script activeert groter is dan de Character Collider, zodat je dichtbij genoeg kunt komen om deze te activeren.  
