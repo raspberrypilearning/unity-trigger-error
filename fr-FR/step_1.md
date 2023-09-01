@@ -1,3 +1,3 @@
-Make sure any characters/objects that you want to collide with have a **Box Collider** with `Is Trigger` selected.
+Assure-toi que tous les personnages/objets avec lesquels tu veux entrer en collision ont un **Box Collider** avec `Is Trigger` sélectionné.
 
-If your characters/objects also have a **Character Controller** for collision detection, you need to make sure that the **Box Collider** that triggers your script is larger than the Character Collider so that you can get close enough to trigger it.  
+Si tes personnages/objets ont également un **Character Controller** pour la détection des collisions, tu dois t'assurer que le **Box Collider** qui déclenche ton script est plus grand que le Character Collider afin que tu puisses t'en approcher suffisamment pour le déclencher.  
